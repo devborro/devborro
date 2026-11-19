@@ -3,8 +3,7 @@
 # Olá, eu sou o Victor Borro 👋
 
 **Programando por lazer 💻
-✨ entre uma partida de game 🎮 e mais um episódio de anime 🍜⚡**  
-*Explorando HTML5, CSS3 e JavaScript no tempo livre e transformando ideias soltas em páginas funcionais 🚀.*
+✨ entre uma partida de game 🎮 e mais um episódio de anime 🍜⚡**
 
 <br />
 
@@ -24,6 +23,8 @@
 </a>
 
 <br />
+
+*Explorando HTML5, CSS3 e JavaScript no tempo livre e transformando ideias soltas em páginas funcionais 🚀.*
 
 ### 📡 Contato
 
