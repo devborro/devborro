@@ -17,7 +17,7 @@
 
 ### 📊 GitHub Stats & Linguagens
 
-<a href="https://github.com/devborro"><img src="https://github-readme-stats.vercel.app/api?username=devborro&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" width="48%" alt="GitHub Stats" /></a><a href="https://github.com/devborro"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devborro&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" width="48%" alt="Top Languages" /></a>
+<a href="https://github.com/devborro"><img src="https://github-readme-stats.vercel.app/api?username=devborro&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" width="48%" height="165" alt="GitHub Stats" /></a><a href="https://github.com/devborro"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devborro&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" width="48%" height="165" alt="Top Languages" /></a>
 
 <br />
 
