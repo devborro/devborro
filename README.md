@@ -18,8 +18,8 @@
 ### 📊 GitHub Stats & Linguagens
 
 <a href="https://github.com/devborro">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devborro&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devborro&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devborro&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devborro&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Top Languages" />
 </a>
 
 <br />
