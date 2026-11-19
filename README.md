@@ -2,10 +2,10 @@
 
 # Olá, eu sou o Victor Borro 👋
 
-**Programando por lazer 💻
-✨ entre uma partida de game 🎮 e mais um episódio de anime 🍜⚡**
+**Programando por lazer 💻✨** entre uma partida de game 🎮 e mais um episódio de anime 🍜⚡  
+*Explorando HTML5, CSS3 e JavaScript no tempo livre e transformando ideias soltas em páginas funcionais 🚀.*
 
-<br />
+---
 
 ### ⚡ Linguagens Principais
 
@@ -13,18 +13,16 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
 
-<br />
+---
 
 ### 📊 GitHub Stats & Linguagens
 
 <a href="https://github.com/devborro">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devborro&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devborro&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devborro&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devborro&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" width="48%" alt="Top Languages" />
 </a>
 
-<br />
-
-*Explorando HTML5, CSS3 e JavaScript no tempo livre e transformando ideias soltas em páginas funcionais 🚀.*
+---
 
 ### 📡 Contato
 
