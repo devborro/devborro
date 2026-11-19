@@ -24,16 +24,6 @@
 
 <br />
 
-### 👾 Contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devborro/devborro/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devborro/devborro/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/devborro/devborro/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-<br />
-
 ### 📡 Contato & Perfis
 
 [![GitHub](https://img.shields.io/badge/GitHub-devborro-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3)](https://github.com/devborro)
