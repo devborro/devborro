@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Victor Borro 👋
+# Olá, eu sou o Victor 👋
 
 **Programando por lazer 💻✨** entre uma partida de game 🎮 e mais um episódio de anime 🍜⚡  
 *Explorando HTML5, CSS3 e JavaScript no tempo livre e transformando ideias soltas em páginas funcionais 🚀.*
