@@ -25,6 +25,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=F778BA)](https://instagram.com/victorborro)
 [![Discord](https://img.shields.io/badge/Discord-161B22?style=for-the-badge&logo=discord&logoColor=79C0FF)](https://discord.com/users/victorborro)
-[![Email](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=FF7B72)](mailto:victorborro17@gmail.com)
+[![Email](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=FF7B72)](mailto:victorsilvaborro@gmail.com)
 
 </div>
