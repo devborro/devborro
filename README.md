@@ -20,16 +20,6 @@
 
 <br />
 
-### 🎯 Foco Atual
-
-| Área | Status |
-| :--- | :--- |
-| **HTML5 Semântico & Acessibilidade** | Em evolução contínua |
-| **CSS3 Moderno (Flexbox, Grid & Responsividade)** | Praticando em projetos |
-| **JavaScript ES6+ & Manipulação de DOM** | Construindo interatividade |
-
-<br />
-
 ### 📈 Estatísticas no GitHub
 
 <p>
